@@ -1,0 +1,47 @@
+1.Layout and Grid System:
+
+.container
+.row
+.col-md-* 
+
+2.Navigation 
+.navbar
+.navbar-expand-lg
+.navbar-nav
+.nav-item
+.nav-link
+
+3.Dropdown Menu
+.dropdown
+.dropdown-toggle
+.dropdown-menu
+.dropdown-item
+
+4.Form Elements
+.form-label
+.form-control
+.form-select
+.form-check
+.form-check-input
+
+5.Buttons:
+.btn
+.btn-primary
+.btn-secondary
+
+6.Tables:
+.table
+.table-dark
+.table-hover
+
+7.Text Alignment and Spacing:
+.text-center
+.text-white.mb-4
+.me-2
+.mt-4
+
+8.Flex Layout Utilities:
+.me-auto
+
+9.Responsive Utilities:
+.fixed-top
